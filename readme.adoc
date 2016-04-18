@@ -1,5 +1,7 @@
 # Refactor monolith to microservices
 
+source: http://blog.arungupta.me/docker-kubernetes-microservices-devoxx-2015/
+
 This workspace will show how to refactor a Java EE monolith to a
 microservices-based application. This will be accomplished in multiple
 phases:
